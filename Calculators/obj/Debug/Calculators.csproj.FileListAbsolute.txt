@@ -1,0 +1,15 @@
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\bin\Debug\Calculators.exe.config
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\bin\Debug\Calculators.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\bin\Debug\Calculators.pdb
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators.csprojAssemblyReference.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\MainWindow.g.cs
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\App.g.cs
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators_MarkupCompile.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators_MarkupCompile.lref
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\MainWindow.baml
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators.g.resources
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\Calculators\Calculators\obj\Debug\Calculators.pdb

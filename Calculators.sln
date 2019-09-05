@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculators", "Calculators\Calculators.csproj", "{74F5CC8C-00CE-4290-975C-1B02C823CDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cacl", "Cacl\Cacl.csproj", "{9DB7D984-5806-4E01-B63E-FB3792E693A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculte", "Calculte\Calculte.csproj", "{F78F5BEB-70C6-4F74-B8F3-40A3408B16BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F5CC8C-00CE-4290-975C-1B02C823CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F5CC8C-00CE-4290-975C-1B02C823CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F5CC8C-00CE-4290-975C-1B02C823CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F5CC8C-00CE-4290-975C-1B02C823CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB7D984-5806-4E01-B63E-FB3792E693A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB7D984-5806-4E01-B63E-FB3792E693A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB7D984-5806-4E01-B63E-FB3792E693A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB7D984-5806-4E01-B63E-FB3792E693A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78F5BEB-70C6-4F74-B8F3-40A3408B16BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78F5BEB-70C6-4F74-B8F3-40A3408B16BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78F5BEB-70C6-4F74-B8F3-40A3408B16BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78F5BEB-70C6-4F74-B8F3-40A3408B16BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D78E2FB-20EC-4F19-94D7-30C6172E72AB}
+	EndGlobalSection
+EndGlobal
